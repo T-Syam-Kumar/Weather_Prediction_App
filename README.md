@@ -1,3 +1,43 @@
-# Weather_Prediction_App
-# Weather_Report_App
-Weather report page built using HTML, CSS, and JavaScript that fetches real-time weather data from the OpenWeather (WeatherStack) API. Displays current temperature, weather conditions, humidity, and wind speed with a clean and responsive UI.
+# Weather Predictor App 🌦️
+
+A simple and user-friendly **Weather Predictor App** that fetches real-time weather information using a public weather API. Users can enter any city name to instantly view current weather conditions such as temperature, humidity, wind speed, and overall weather status.
+
+Check out the **live site here**: [Weather Predictor App](https://t-syam-kumar.github.io/Weather_Prediction_App/)
+
+---
+
+## Features
+
+- Search weather by **city name**
+- Real-time weather data via API
+- Displays **temperature, humidity, and weather conditions**
+- Fast and responsive interface
+- Error handling for invalid city names
+
+---
+
+## Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **API:** OpenWeatherMap (or the weather API you are using)  
+- **Hosting:** GitHub Pages  
+
+---
+
+## Demo
+
+![Weather Predictor Screenshot](screenshot.png)  
+*(Optional: Add a screenshot of your app here for better visibility)*
+
+---
+
+## How to Use
+
+1. Open the live app: [Weather Predictor App](https://t-syam-kumar.github.io/Weather_Prediction_App/)  
+2. Enter the **name of any city** in the search bar  
+3. Press **Enter** or click the **Search button**  
+4. View the current weather details for that city  
+
+---
+   ```bash
+   git clone https://github.com/T-syam-kumar/Weather_Prediction_App.git
