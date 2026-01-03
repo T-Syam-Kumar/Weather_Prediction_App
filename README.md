@@ -23,12 +23,6 @@ Check out the **live site here**: [Weather Predictor App](https://t-syam-kumar.g
 - **Hosting:** GitHub Pages  
 
 ---
-
-## Demo
-
-![Weather Predictor Screenshot](screenshot.png)  
-*(Optional: Add a screenshot of your app here for better visibility)*
-
 ---
 
 ## How to Use
