@@ -1,4 +1,4 @@
-# Weather Predictor App 🌦️
+# Weather Predictor App 
 
 A simple and user-friendly **Weather Predictor App** that fetches real-time weather information using a public weather API. Users can enter any city name to instantly view current weather conditions such as temperature, humidity, wind speed, and overall weather status.
 
